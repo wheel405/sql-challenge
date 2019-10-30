@@ -1,2 +1,2 @@
 # sql-challenge
-homework-7-wheeler
+SQL homework 7 for data bootcamp at University of Minnesota
